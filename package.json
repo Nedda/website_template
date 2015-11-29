@@ -1,0 +1,23 @@
+{
+  "name": "website_template",
+  "version": "1.0.0",
+  "description": "Simple React Website template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namini67/website_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namini67/website_template/issues"
+  },
+  "homepage": "https://github.com/namini67/website_template#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "webpack": "^1.12.9"
+  }
+}

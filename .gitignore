@@ -1,2 +1,10 @@
+.DS_Store
+npm-debug.log
 node_modules
-
+*~
+*.swp
+*.swo
+*.min
+*.map
+*.bundle.js
+*.bundle.js.map

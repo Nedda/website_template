@@ -4,8 +4,8 @@ var webpack = require('webpack');
 console.log("MEOW", path.join(__dirname, "lib"));
 
 module.exports = {
-  entry: ['webpack/hot/dev-server',
-    './lib/app.js'],
+  entry: ['webpack/hot/dev-server', 
+    './app.js'],
   output: {
     path: __dirname + '/bin',
     filename: '[name].bundle.js',
